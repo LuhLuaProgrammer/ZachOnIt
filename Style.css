@@ -1,0 +1,46 @@
+body{
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    margin: 0; 
+}
+
+header{
+    background-color: #00c2fd;
+    width: 100%;
+    margin-bottom: 0.2%;    
+}
+
+main{
+    text-align: center;
+}
+
+#NoUnderline{
+    text-decoration: none;
+}
+
+.MainTitle{
+    font-size: 40px;
+    color: #00c2fd;
+}
+
+.Title{
+    font-size: 40px;
+    padding: 12px;
+    color: black;
+}
+
+.SecondaryHeader{
+    width: 100%;
+    background-color: rgb(0, 85, 255);
+    padding: 10px;
+    margin-bottom: 1.2%;
+}
+
+
+
+.TextLinks a{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+}
